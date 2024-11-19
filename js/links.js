@@ -8,7 +8,7 @@ export const links = [
     {
         name: "Twitter",
         link: 
-"https://twitter.com/slave_Dafy",
+"https://x.com/slave_Dafy",
     },
 
 ];
