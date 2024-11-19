@@ -6,7 +6,6 @@ function addLink(name, link) {
     return `
   <a href="${link}" class="link" target="blank">
     <span>${name}  </span>
-    <img class="linkIcon" src="../pictures/link-icon.webp" alt=""/>
   </a>
   `;
 }
