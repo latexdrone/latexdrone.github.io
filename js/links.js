@@ -10,5 +10,10 @@ export const links = [
         link: 
 "https://x.com/slave_Dafy",
     },
+{
+        name: "Recon",
+        link: 
+"https://www.recon.com/view_profile.aspx?id=4516392",
+    },
 
 ];
